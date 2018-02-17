@@ -1,3 +1,4 @@
+![Open Data Day Cambridge Logo](ODDlogo.svg)
 # Open Data Day Cambridge 2018 
 
 ## Saturday March 3rd, 2018
