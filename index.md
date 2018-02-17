@@ -18,3 +18,5 @@ eLife Sciences Publications, Ltd
 1st Floor, 24 Hills Road
 Cambridge CB2 1JP
 UK
+
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
