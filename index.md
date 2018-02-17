@@ -1,4 +1,3 @@
-![Open Data Day Cambridge Logo](ODDlogo.svg)
 # Open Data Day Cambridge 2018 
 
 ## Saturday March 3rd, 2018
@@ -15,9 +14,22 @@ You're invited to come explore open data sets in a casual and friendly environme
 
 ## Venue
 
-eLife Sciences Publications, Ltd
-1st Floor, 24 Hills Road
-Cambridge CB2 1JP
-UK
+eLife Sciences Publications, Ltd  
+1st Floor, 24 Hills Road  
+Cambridge CB2 1JP  
+UK  
+
+## Organisers
+
+- Naomi Penfold - GitHub: [@npscience](https://github.com/npscience/), Twitter [@npscience](https://twitter.com/npscience)
+- Yo Yehudi - GitHub: [@yochannah](https://github.com/yochannah/), Twitter [@yoyehudi](https://twitter.com/yoyehudi), email: yoyehudi@gmail.com
+
+
+## Sponsors
+
+[Software Sustainability Institute](https://www.software.ac.uk/)
+
 
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+
+![Open Data Day Cambridge Logo](ODDlogo.svg)
