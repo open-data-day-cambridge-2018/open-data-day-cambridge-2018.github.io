@@ -5,12 +5,16 @@ The event will run from around 10:00 - 16:30. [See full schedule](schedule.md)
 
 ## About
 Open Data Day Cambridge is part of the global [Open Data Day](http://opendataday.org/) celebration and exploration of Open Data. 
-You're invited to come explore open data sets in a casual and friendly environment. Food will be provided, and there is the option of a travel / childcare bursary to encourage diversity within the team.
+You're invited to come explore open data sets in a casual and friendly environment. Food will be provided, and there is the option of a travel / childcare bursary to encourage diversity within the team. Please email yoyehudi@gmail.com for more info on bursaries or with any food requirements. Veggie / vegan food will be available. 
 
 ## What data?
 - [Open Data Day.org](http://opendataday.org/#resources) has some open research data you can use
 - [data.gov.uk](https://data.gov.uk/) has government-related public data sets, including some APIs,
 - You can also bring your own, so long as it's open! 
+
+## Registration
+
+Please visit [our eventbrite registration page](https://www.eventbrite.co.uk/e/open-data-day-cambridge-2018-tickets-43277756936) to sign up for the event. Spaces are limited! 
 
 ## Venue
 
