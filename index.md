@@ -3,10 +3,7 @@
 ## Saturday March 3rd, 2018
 The event will run from around 10:00 - 16:30. [See full schedule](schedule.md)
 
-[About](##about)
-[Setting your objectives](##setting-your-objectives)
-[Logistics](##logistics)
-[Sponsors](##thank-you!)
+[About](##about) | [Setting your objectives](##setting-your-objectives) | [Logistics](##logistics) | [Sponsors](##thank-you!)
 
 ## About
 Open Data Day Cambridge is part of the global [Open Data Day](http://opendataday.org/) celebration and exploration of Open Data.
