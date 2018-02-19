@@ -32,6 +32,7 @@ We hope you will join us and have fun exploring data.
 
 Please visit [our eventbrite registration page](https://www.eventbrite.co.uk/e/open-data-day-cambridge-2018-tickets-43277756936) to sign up for the event. Spaces are limited! -->
 
+
 ## Setting your objectives
 
 ### What do you want to learn?
@@ -62,6 +63,7 @@ What can be done with open data?
 - Getting started: [data.world](https://docs.data.world/introdatasets/) has some starter data exercises
 <!--- Work out which bins are collected when, like [this app](http://imactivate.com/leedsbins/) by @thomasforth *probably not achievable in a day!*-->
 
+
 ## Logistics
 
 ### Venue
@@ -87,8 +89,8 @@ There is the option of a travel / childcare bursary to encourage diversity withi
 
 ## Thank you!
 
-Sponsor: [Software Sustainability Institute](https://www.software.ac.uk/)
-Venue provider: [eLife](https://elifesciences.org)
+- Sponsor: [Software Sustainability Institute](https://www.software.ac.uk/)
+- Venue provider: [eLife](https://elifesciences.org)
 
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
 
