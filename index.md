@@ -57,11 +57,10 @@ We can't guarantee we can find you the help, but we will be supportive and help 
 What can be done with open data?
 
 - Understand the patterns of local cyclists, like @betatim's [analysis of cyclists in Zurich](https://github.com/wildtreetech/explore-open-data) - try it yourself by launching the Binder!
--
-- Work out which bins are collected when, like [this app](http://imactivate.com/leedsbins/) by @thomasforth *probably not achievable in a day!*
 - There are a lot of [ideas pending](https://github.com/sparcopen/Open-Research-doathon/issues?q=is%3Aissue+label%3Apostponed) from last year's Open Data Do-athon, London
 - A [thread of cool things](https://www.quora.com/What-are-the-best-apps-built-on-top-of-open-government-data?share=1) done with open data in the past
 - Getting started: [data.world](https://docs.data.world/introdatasets/) has some starter data exercises
+<!--- Work out which bins are collected when, like [this app](http://imactivate.com/leedsbins/) by @thomasforth *probably not achievable in a day!*-->
 
 ## Logistics
 
