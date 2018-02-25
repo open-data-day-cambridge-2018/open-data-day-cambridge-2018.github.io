@@ -84,7 +84,7 @@ There is the option of a travel / childcare bursary to encourage diversity withi
 ## Organisers
 
 - Naomi Penfold - GitHub: [@npscience](https://github.com/npscience/), Twitter [@npscience](https://twitter.com/npscience)
-- Yo Yehudi - GitHub: [@yochannah](https://github.com/yochannah/), Twitter [@yoyehudi](https://twitter.com/yoyehudi), email: yoyehudi@gmail.com
+- Yo Yehudi - GitHub: [@yochannah](https://github.com/yochannah/), Twitter [@yoyehudi](https://twitter.com/yoyehudi), email: yochannah@gmail.com
 
 
 ## Thank you!
