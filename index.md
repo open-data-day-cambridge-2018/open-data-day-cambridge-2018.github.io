@@ -9,7 +9,7 @@ The event will run from around 10:00 - 16:30. [See full schedule](schedule.md)
 Open Data Day Cambridge is part of the global [Open Data Day](http://opendataday.org/) celebration and exploration of Open Data.
 
 You're invited to come explore open data sets in a casual and friendly environment. Specifically, this event is intended to be a welcoming space to learn something new, and learn together. It's why we're coming:
-- Yo is a software developer who knows Java best but has never used Python. So she's coming to give that a go for the first time.
+- Yo is a software developer who knows JavaScript best but has never used Python. So she's coming to give that a go for the first time.
 - Naomi is definitely not a developer but loves data. She wants to make her first Jupyter notebook.
 
 We hope you will join us and have fun exploring data.
