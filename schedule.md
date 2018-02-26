@@ -1,4 +1,4 @@
-# Schedule (still work in progress)
+# Schedule
 
 Time | What? | Notes
 --- | --- | ---
@@ -18,11 +18,11 @@ Time | What? | Notes
 
 # Welcome and intro
 
-Notes to folllow
+Notes to follow
 
-* Important info (bathrooms, fire, first aid, wifi)
+* Important info (bathrooms, fire, first aid, wifi, no smoking)
 * Thank yous: Software Sustainability Institute, eLife, OKI/open data day
-* Talk about the event on Twitter using #ODD18 <our own hashtag here>
+* Talk about the event on Twitter using #ODD18 <our own hashtag here?>
 * Who is here? Key stats for blog
 
 Hands up:
