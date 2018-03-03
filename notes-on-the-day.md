@@ -24,18 +24,24 @@ Key stats for blog
 Hands up:
 Familiar with:
 
-Open Data?
-Programming?
+Open Data? All of us!
+Programming? R is just learning webdev; Y knows Java and webdev and is learning Python; 
 Which languages:
 
 First time at open data day event?
 
 What do we want to learn/gain from today?
+* A python analysis, maybe a web app - traffic data
+* Play with open datasets from Kaggle in R
+* Make wikiData dictionaries using Sparql
+* An analysis of bike theft data using Python
 
 ## Today's plan
 
 * Run through the schedule
 * Agree our working environment: decide if we want background music (e.g. edits on wikipedia), documentation sprints, work in groups, etc
+
+Let's work together on a project!
 
 
 # Outcomes
