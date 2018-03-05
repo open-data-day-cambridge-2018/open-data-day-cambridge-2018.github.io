@@ -46,6 +46,6 @@ Let's work together on a project!
 
 # Outcomes
 
-- [ ] group photo?
-- [ ] what we achieved — share this [here](#16) 
-- [ ] blog contributors
+- [x] group photo?
+- [x] what we achieved — share this [here](#16) 
+- [x] blog contributors
